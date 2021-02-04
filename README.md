@@ -31,5 +31,5 @@
 ---
 
 [instagram]: https://www.instagram.com/_sumitjangid_/
-[linkedin]: https://www.linkedin.com/in/sumitjangid05/
+[linkedin]: https://www.linkedin.com/in/sumit-jangid05/
 
